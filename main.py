@@ -11,7 +11,7 @@ import os
 JOKE = (
     "Monday morning, my alarm and I reached a compromise: "
     "it stops ringing, and I stop pretending I'll get up. "
-    "We've both kept our word for three years."
+    "Three years running, neither of us has broken the deal."
 )
 
 
